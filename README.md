@@ -270,9 +270,15 @@ No, I'm not going to use my time to continue developing and contributing to this
 
 License
 -------
-This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
+<div style="">
+<div style="float:left;text-align:center;width:32;">
 [![CC0](https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg)](https://docs.github.com/articles/licensing-a-repository/#disclaimer)
+</div>
+<div style="float:right;text-align:left;">
+This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
+</div>
+</div>
 
-<div class="footer">
+<div style="text-align:center;">
 &copy; 2026 Hafij Khan.
 </div>
