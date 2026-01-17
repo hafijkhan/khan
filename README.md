@@ -270,6 +270,8 @@ This project is available under the [MIT License](LICENSE), allowing anyone to u
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
 
+![alt text](hk/svg/mitlicon.svg)
+
 <style>
 @media (prefers-color-scheme: dark) {
   [data-color-mode][data-color-mode="auto"][data-dark-theme="dark"], [data-color-mode][data-color-mode="auto"][data-dark-theme="dark"] ::backdrop {
