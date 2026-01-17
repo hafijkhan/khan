@@ -270,7 +270,7 @@ No, I'm not going to use my time to continue developing and contributing to this
 
 License
 -------
-This project is available under the <img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="" height="16"/> [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
+This project is available under the <img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="margin-top:4px;" height="16"/> [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
 
 [![npm package](https://img.shields.io/npm/v/@hafijkhan/khan.svg)](https://www.npmjs.com/package/@hafijkhan/khan)
 [![build status](https://github.com/hafijkhan/khan/actions/workflows/static.yml/badge.svg)](https://github.com/hafijkhan/khan/actions/workflows/static.yml)
