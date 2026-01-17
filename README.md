@@ -274,4 +274,10 @@ No, I'm not going to use my time to continue developing and contributing to this
 
 This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
 
+This is an H1
+=============
+
+This is an H2
+-------------
+
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
