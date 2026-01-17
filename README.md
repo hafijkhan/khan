@@ -268,9 +268,9 @@ Is further support available?
 -----------------------------
 No, I'm not going to use my time to continue developing and contributing to this repository, it's just a sharing of some experiences, if you're interested you can create something better!
 
-<p style="background-color:#080;"><h2 tabindex="-1" class="heading-element" dir="auto">License <img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="float:right;" height="22"/></p>
+License
 -------
-This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
+This project is available under the [MIT License](LICENSE), <img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="float:right;" height="22"/> allowing anyone to use, modify, and distribute the work without restrictions.
 
 [![npm package](https://img.shields.io/npm/v/@hafijkhan/khan.svg)](https://www.npmjs.com/package/@hafijkhan/khan)
 [![build status](https://github.com/hafijkhan/khan/actions/workflows/static.yml/badge.svg)](https://github.com/hafijkhan/khan/actions/workflows/static.yml)
