@@ -249,35 +249,23 @@ or
 curl -i -u "$USER:$TOKEN" -H "Accept: application/vnd.github.v3+json" https://api.github.com/rate_limit
 ```
 
-### Is it possible to use it under Windows?
-
----
-
+Is it possible to use it under Windows?
+---------------------------------------
 It should work fine with [WSL](https://docs.microsoft.com/en-us/windows/wsl/install) and some 3rd party Linux tools ([Cygwin](https://github.com/cygwin/cygwin) or [Git bash](https://github.com/git-for-windows/git)).
 
-### How do I find my current username?
-
----
-
+How do I find my current username?
+----------------------------------
 1. In the GitHub Desktop menu, click Preferences.
 
 2. In the Preferences window, verify the following:
     - To view your GitHub username, click Accounts.
 
-### Is further support available?
-
----
-
+Is further support available?
+-----------------------------
 No, I'm not going to use my time to continue developing and contributing to this repository, it's just a sharing of some experiences, if you're interested you can create something better!
 
-## License
-
+License
+=======
 This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
-
-This is an H1
-=============
-
-This is an H2
--------------
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
