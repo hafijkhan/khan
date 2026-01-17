@@ -1,4 +1,7 @@
 ![css](hk/svg/style.svg)
+
+![CC0](https://hafijkhan.github.io/svg/banner.svg)
+
 # :octocat: find available github username
 
 ## 📜 Table of Contents
@@ -271,11 +274,9 @@ This project is available under the [MIT License](LICENSE), allowing anyone to u
 
 [![CC0](https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg)](https://docs.github.com/articles/licensing-a-repository/#disclaimer)
 
-[![CC0](https://hafijkhan.github.io/svg/banner.svg)]
-
 <div class="footer">
   <div class="hkBanner" style="padding:20;">
-    <img width="100%" src="hk/svg/mitlicon.svg"/>
+    <img width="100%" src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg"/>
   </div>
   &copy; 2026 Hafij Khan. 
 </div>
