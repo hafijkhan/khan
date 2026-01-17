@@ -271,8 +271,7 @@ No, I'm not going to use my time to continue developing and contributing to this
 License
 -------
 <div style="">
-  <img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="float:left;text-align:center;width:32;"/>
-</div>
+<img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="float:left;text-align:center;width:32;"/>
 <p style="float:right;text-align:left;">
 This project is available under the [MIT][MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
 </p>
