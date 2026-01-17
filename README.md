@@ -272,7 +272,7 @@ License
 -------
 This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
 
-<img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="height:16;"/>
+<img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="widtht:16;"/>
 
 <div style="text-align:center;">
 &copy; 2026 Hafij Khan.
