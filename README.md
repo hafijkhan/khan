@@ -269,9 +269,9 @@ License
 =======
 This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
 
-[![CC0](hk/svg/mitlicon.svg)](https://docs.github.com/articles/licensing-a-repository/#disclaimer)
+[![CC0]([hk/svg/mitlicon.svg](https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg))](https://docs.github.com/articles/licensing-a-repository/#disclaimer)
 
-![svg](hk/svg/mitlicon.svg)
+![CC0](hk/svg/mitlicon.svg)
 
 <div class="footer">
   <div class="hkBanner" style="padding:20;">
