@@ -270,8 +270,10 @@ No, I'm not going to use my time to continue developing and contributing to this
 
 License
 -------
+<p align="center">
+<img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="float:left;widtht:32;"/>
 This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
-<img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="widtht:16;"/>
+</p>
 
 [![npm package](https://img.shields.io/npm/v/@hafijkhan/khan.svg)](https://www.npmjs.com/package/@hafijkhan/khan)
 [![build status](https://github.com/hafijkhan/khan/actions/workflows/static.yml/badge.svg)](https://github.com/hafijkhan/khan/actions/workflows/static.yml)
@@ -280,9 +282,5 @@ This project is available under the [MIT License](LICENSE), allowing anyone to u
 [![license](https://img.shields.io/github/license/hafijkhan/khan.svg)](https://github.com/primer/css/blob/main/LICENSE)
 
 <p align="center">
-  yo
+  &copy; 2026 Hafij Khan.
 </p>
-
-<div style="text-align:center;">
-&copy; 2026 Hafij Khan.
-</div>
