@@ -270,13 +270,13 @@ No, I'm not going to use my time to continue developing and contributing to this
 
 License
 -------
-This project is available under the <img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="margin-bottom:-4;" height="16"/> [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
+This project is available under the <img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="margin-top:8px;" height="18"/> [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
 
 [![npm package](https://img.shields.io/npm/v/@hafijkhan/khan.svg)](https://www.npmjs.com/package/@hafijkhan/khan)
 [![build status](https://github.com/hafijkhan/khan/actions/workflows/static.yml/badge.svg)](https://github.com/hafijkhan/khan/actions/workflows/static.yml)
 [![contributors graph](https://img.shields.io/github/contributors/hafijkhan/khan.svg)](https://github.com/hafijkhan/khan/graphs/contributors)
-[![last commit](https://img.shields.io/github/last-commit/hafijkhan/khan.svg)](https://github.com/primer/css/commits/main)
-[![license](https://img.shields.io/github/license/hafijkhan/khan.svg)](https://github.com/primer/css/blob/main/LICENSE)
+[![last commit](https://img.shields.io/github/last-commit/hafijkhan/khan.svg)](https://github.com/hafijkhan/khan/commits/main)
+[![license](https://img.shields.io/github/license/hafijkhan/khan.svg)](https://github.com/hafijkhan/khan/blob/main/LICENSE)
 
 <p align="center">
   &copy; 2026 Hafij Khan.
