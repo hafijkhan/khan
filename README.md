@@ -269,14 +269,10 @@ Is further support available?
 No, I'm not going to use my time to continue developing and contributing to this repository, it's just a sharing of some experiences, if you're interested you can create something better!
 
 License
-=======
+-------
 This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
-
 [![CC0](https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg)](https://docs.github.com/articles/licensing-a-repository/#disclaimer)
 
 <div class="footer">
-  <div class="hkBanner" style="padding:20;">
-    <img width="100%" src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg"/>
-  </div>
-  &copy; 2026 Hafij Khan. 
+&copy; 2026 Hafij Khan.
 </div>
