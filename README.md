@@ -268,7 +268,7 @@ Is further support available?
 -----------------------------
 No, I'm not going to use my time to continue developing and contributing to this repository, it's just a sharing of some experiences, if you're interested you can create something better!
 
-License <p style="float:right;width:32px;"><img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" height="22"/></p>
+L <p style="background-color:#080;">icense <img src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" style="float:right;" height="22"/></p>
 -------
 This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
 
