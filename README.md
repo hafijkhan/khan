@@ -272,6 +272,6 @@ No, I'm not going to use my time to continue developing and contributing to this
 
 ## License
 
-This project is available under the [Creative Commons Zero (CC0) License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
+This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
