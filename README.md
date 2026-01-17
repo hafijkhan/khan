@@ -269,3 +269,7 @@ License
 This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
 
 [![CC0](https://licensebuttons.net/p/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
+
+    <div class="footer">
+        &copy; 2026 Hafij Khan. 
+    </div>
