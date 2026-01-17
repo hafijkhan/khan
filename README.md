@@ -272,7 +272,7 @@ License
 -------
 <div style="">
 <div style="float:left;text-align:center;width:32;">
-[![CC0](https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg)](https://docs.github.com/articles/licensing-a-repository/#disclaimer)
+  <img width="100%" src="https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg" />
 </div>
 <div style="float:right;text-align:left;">
 This project is available under the [MIT License](LICENSE), allowing anyone to use, modify, and distribute the work without restrictions.
