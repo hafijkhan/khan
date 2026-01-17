@@ -271,7 +271,7 @@ This project is available under the [MIT License](LICENSE), allowing anyone to u
 
 [![CC0]([hk/svg/mitlicon.svg](https://hafijkhan.github.io/khan/hk/svg/mitlicon.svg))](https://docs.github.com/articles/licensing-a-repository/#disclaimer)
 
-![CC0](hk/svg/mitlicon.svg)
+[![CC0](https://hafijkhan.github.io/svg/banner.svg)]
 
 <div class="footer">
   <div class="hkBanner" style="padding:20;">
